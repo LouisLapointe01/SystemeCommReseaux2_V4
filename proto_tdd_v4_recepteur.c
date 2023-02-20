@@ -4,7 +4,7 @@
 *                                                            *
 * Protocole sans contrôle de flux, sans reprise sur erreurs  *
 *                                                            *
-* E. Lavinal - Univ. de Toulouse III - Paul Sabatier         *
+* Univ. de Toulouse III - Paul Sabatier         *
 **************************************************************/
 
 #include <stdio.h>
